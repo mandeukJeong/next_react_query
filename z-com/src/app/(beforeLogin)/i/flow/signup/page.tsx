@@ -1,7 +1,7 @@
+import SignupModal from "@/app/(beforeLogin)/_component/SignUpModal";
+
 export default function Home() {
   return (
-    <main>
-      회원가입 모달
-    </main>
+    <SignupModal />
   );
 }
