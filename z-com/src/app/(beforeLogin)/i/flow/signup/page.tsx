@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      홈페이지
+      회원가입 모달
     </main>
   );
 }
